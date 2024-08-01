@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Ejercicio Banco\Ejercicio Banco\bin\Debug\Ejercicio Banco.exe.config
+C:\Users\user\source\repos\Ejercicio Banco\Ejercicio Banco\bin\Debug\Ejercicio Banco.exe
+C:\Users\user\source\repos\Ejercicio Banco\Ejercicio Banco\bin\Debug\Ejercicio Banco.pdb
+C:\Users\user\source\repos\Ejercicio Banco\Ejercicio Banco\obj\Debug\Ejercicio Banco.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ejercicio Banco\Ejercicio Banco\obj\Debug\Ejercicio Banco.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ejercicio Banco\Ejercicio Banco\obj\Debug\Ejercicio Banco.exe
+C:\Users\user\source\repos\Ejercicio Banco\Ejercicio Banco\obj\Debug\Ejercicio Banco.pdb
